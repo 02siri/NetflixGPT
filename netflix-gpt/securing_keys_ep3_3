@@ -1,0 +1,7 @@
+securing keys 
+
+best way in production is .env file 
+
+Basic security 
+
+add to gitignore 

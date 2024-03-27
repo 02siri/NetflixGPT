@@ -1,0 +1,46 @@
+Adding link in the header for gpt 
+
+when user is present 
+
+GPT Search component build 
+putting inside the browse page 
+
+now when you click on the button, then only show the gptpage otherwise show other components
+
+creating an onClick()
+
+
+Creating new Slice (you can use it from anywhere (can implement with state variable as well)) 
+
+add slice to store 
+
+now dispatch and action in the toggle button to change value 
+
+now in browse page adding if 
+
+=> core fundamental is : creating a slice in Redux which can be updated from anywhere -> updating it from onClick handler present in the button 
+=> adding if condition for conditional rendering (ternary operator) according to the state change
+
+now building the GPT Search 
+
+creating lang constants 
+
+creating a toggle as well in header 
+
+creating <select></select> and fetching data from array in constants 
+DONT hardcore 
+
+for toggle, create a new slice for the data 
+
+---------
+npm open ai 
+
+npm install --save openai
+
+https://www.npmjs.com/package/openai
+
+create another utils to store function 
+
+dangerouslyAllowBrowser: true add this 
+why? read instructions 
+

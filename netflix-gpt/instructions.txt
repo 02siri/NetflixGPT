@@ -1,0 +1,31 @@
+Final Episode Part - 1 Instructions 
+
+Integrate GPT Apis 
+
+Feature - Seperate Page for GPT, GPT Search Page 
+
+You don't know which movie to watch, GPT Api should give me the result 
+
+Movie Recommendation System 
+
+Open AIs
+
+Seperate Component 
+    - GPT Search Bar 
+    - GPT movie component
+
+including lang support for gpt search 
+
+made lang support dynamic using drop down and redux store 
+
+calling api from client side 
+the secret key can be leaked, yeh error aayga 
+browser like environment 
+key can be compromised 
+best practice is to do it from backend 
+
+pushing movies into gpt slice 
+
+creating objects for movie name as well 
+
+now making the movieSuggesions page 
